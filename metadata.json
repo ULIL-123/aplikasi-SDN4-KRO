@@ -1,0 +1,6 @@
+{
+  "name": "Remote Learning SD 4 Kronggen",
+  "description": "Aplikasi Pembelajaran Remote, Pelaporan Live Time, Jadwal Pelajaran & Gerakan 7 Kebiasaan Anak Indonesia Hebat (7KAIH) SD Negeri 4 Kronggen - Towards Literate School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
